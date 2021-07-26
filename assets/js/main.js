@@ -1,52 +1,52 @@
 let myData = {
                 item_1:{
                     Name : "Buttermilk Pancakes",
-                    Img  : "assets/images/item-1.jpeg",
+                    Img  : "/assets/images/item-1.jpeg",
                     Text : "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
                 },
                 item_2:{
                     Name : "Diner Double",
-                    Img  : "assets/images/item-2.jpeg",
+                    Img  : "/assets/images/item-2.jpeg",
                     Text : "vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats"
                 },
                 item_3:{
                     Name : "Godzilla Milkshake",
-                    Img  : "assets/images/item-3.jpeg",
+                    Img  : "/assets/images/item-3.jpeg",
                     Text : "ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral"
                 },
                 item_4:{
                     Name : "Country Delight",
-                    Img  : "assets/images/item-4.jpeg",
+                    Img  : "/assets/images/item-4.jpeg",
                     Text : "Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,"
                 },
                 item_5:{
                     Name : "Egg Attack",
-                    Img  : "assets/images/item-5.jpeg",
+                    Img  : "/assets/images/item-5.jpeg",
                     Text : "franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up"
                 },
                 item_6:{
                     Name : "Oreo Dream",
-                    Img  : "assets/images/item-6.jpeg",
+                    Img  : "/assets/images/item-6.jpeg",
                     Text : "Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday"
                 },
                 item_7:{
                     Name : "Bacon Overflow",
-                    Img  : "assets/images/item-7.jpeg",
+                    Img  : "/assets/images/item-7.jpeg",
                     Text : "carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird"
                 },
                 item_8:{
                     Name : "American Classic",
-                    Img  : "assets/images/item-8.jpeg",
+                    Img  : "/assets/images/item-8.jpeg",
                     Text : "on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut"
                 },
                 item_9:{
                     Name : "Quarantine Buddy",
-                    Img  : "assets/images/item-9.jpeg",
+                    Img  : "/assets/images/item-9.jpeg",
                     Text : "skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing."
                 },
                 item_10:{
                     Name : "Steak Dinner",
-                    Img  : "assets/images/item-10.jpeg",
+                    Img  : "/assets/images/item-10.jpeg",
                     Text : "skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing."
                 }
 }
